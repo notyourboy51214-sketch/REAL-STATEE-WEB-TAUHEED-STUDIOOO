@@ -1,0 +1,6 @@
+{
+  "name": "Tauheed Estate Agency - Karachi",
+  "description": "Established real estate agency in Gulshan-e-Iqbal, Karachi. Experienced guidance for buying, selling, and renting properties with integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
